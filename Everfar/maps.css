@@ -1,0 +1,63 @@
+header {
+	background-color: #391C4C; 
+	text-align: center;
+}
+.nav_bar {
+	margin: 0;
+	padding: 0;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0px;
+}
+
+nav li {
+	display: inline-block;
+	margin: 0px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+nav a {
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 20px;
+	padding: 25px;
+}
+
+nav a:hover {
+	background-color: #4D315F;
+	padding: 25px;
+}
+
+hr.nav_div {
+	color: #0A0110; 	
+	padding: 0;
+	margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #260E37;
+    color: white;
+	margin: 0;
+	padding: 0;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.Everfar {
+    margin: 15px;
+    padding: 15px;
+    background-color: #391C4C;
+}
+
